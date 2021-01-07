@@ -9,7 +9,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Project description
 
-This small shop was developed by me during the course of Redux. This code has been written from the sample, and it is planned to make a number of improvements.
+This small shop was developed by me during the course of Redux. This code has been written from the sample, and I'm going to make a few of improvements.
 
 ## List of improvements
 
